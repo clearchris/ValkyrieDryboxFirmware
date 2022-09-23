@@ -1,10 +1,10 @@
 [
     {
         "type": "valkyrie-drybox-dwc",
-        "version": "10.0.0",
+        "version": "11.0.0",
         "host": "raw.githubusercontent.com",
         "port": 443,
-        "bin": "/clearchris/ValkyrieDryboxFirmware/main/bin/10/firmware.bin",
-        "spiffs": "/clearchris/ValkyrieDryboxFirmware/main/bin/10/spiffs.bin"
+        "bin": "/clearchris/ValkyrieDryboxFirmware/main/bin/11/firmware.bin",
+        "spiffs": "/clearchris/ValkyrieDryboxFirmware/main/bin/11/spiffs.bin"
     }
 ]
