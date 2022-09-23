@@ -6,5 +6,14 @@
         "port": 443,
         "bin": "/clearchris/ValkyrieDryboxFirmware/main/bin/11/firmware.bin",
         "spiffs": "/clearchris/ValkyrieDryboxFirmware/main/bin/11/spiffs.bin"
+    },
+    {
+        "type": "valkyrie-drybox-dwc-stable",
+        "version": "1.0.0",
+        "host": "raw.githubusercontent.com",
+        "port": 443,
+        "bin": "/clearchris/ValkyrieDryboxFirmware/main/stable/1/firmware.bin",
+        "spiffs": "/clearchris/ValkyrieDryboxFirmware/main/stable/1/spiffs.bin"
     }
+
 ]
