@@ -4,7 +4,7 @@
         "version": "37.0.0",
         "host": "raw.githubusercontent.com",
         "port": 443,
-        "bin": "/clearchris/ValkyrieDryboxFirmware/main/bin/36/firmware.bin",
-        "spiffs": "/clearchris/ValkyrieDryboxFirmware/main/bin/36/spiffs.bin"
+        "bin": "/clearchris/ValkyrieDryboxFirmware/main/bin/37/firmware.bin",
+        "spiffs": "/clearchris/ValkyrieDryboxFirmware/main/bin/37/spiffs.bin"
     }
 ]
