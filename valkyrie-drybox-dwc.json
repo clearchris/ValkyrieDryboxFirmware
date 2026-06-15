@@ -1,7 +1,7 @@
 [
     {
         "type": "valkyrie-drybox-dwc",
-        "version": "79.0.0",
+        "version": "80.0.0",
         "host": "raw.githubusercontent.com",
         "port": 443,
         "bin": "/clearchris/ValkyrieDryboxFirmware/main/bin/79/firmware.bin",
